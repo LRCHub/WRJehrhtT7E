@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "なんとかしてよ",
+  "base_artist": "えくしい",
+  "createdAt": "2026-03-17T20:53:01.412878Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なんとかしてよ",
+      "artist": "えくしい",
+      "has_synced": false,
+      "path": "select/pl_01_なんとかしてよ_えくしい.txt"
+    }
+  ]
+}
